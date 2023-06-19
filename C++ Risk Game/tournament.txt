@@ -1,0 +1,1 @@
+tournament -M maps/small.map maps/valid.map maps/invalid.map maps/doesntExist.map -P aggressive neutral -G 3 -D 50

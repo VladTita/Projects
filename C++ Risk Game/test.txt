@@ -1,0 +1,5 @@
+loadmap maps/valid.map
+validatemap
+addplayer human P1
+addplayer neutral P2
+gamestart

@@ -1,0 +1,14 @@
+[Map]
+author=Iceworm72
+image=002_I72_X-29.bmp
+wrap=no
+scroll=horizontal
+warn=no
+
+[Continents]
+Left Wing=5
+
+[Territories]
+Terr1,700,700,Left Wing,Terr2,Terr3
+Terr2,750,615,Left Wing,Terr1,Terr3
+Terr3,750,615,Left Wing,Terr1,Terr2
